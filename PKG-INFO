@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: puer_rest
+Version: 0.4.7
+Home-page: https://github.com/patlach42
+Author: Maxim Fedotov (@patlach)
+Author-email: f42.dobro@gmail.com
+License: GNU/GPL
+Description: Description
+        ===========
+
+        REST Toolkit for puer framework
