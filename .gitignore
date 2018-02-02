@@ -4,4 +4,4 @@ __pycache__
 .idea
 dist
 setup.cfg
-puer.egg-info
+puer_rest.egg-info
